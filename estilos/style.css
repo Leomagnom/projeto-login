@@ -24,6 +24,7 @@
    
  }
  section#login {
+    text-align: center;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -43,10 +44,15 @@
     display: block;
     background: #5f2c82 url(../imagens/pexels-chattrapal-\(shitij\)-singh-2986413.jpg) no-repeat ;
     background-size: cover;
-    background-position: left bottom;
+    background-position: left bottom; 
     height: 200px;
  }
  section#login > div#formulario {
     display: block;
     padding: 10px; 
+   
+
+ }
+ div#formulario > p {
+   font-size: 0.8em;
  }
