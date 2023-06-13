@@ -37,6 +37,7 @@ Grandes telas: acima de 1200px
         font-size: 1.2em;
         text-align: center;
      }
+   
 }
 
 @media screen and (min-width:992px) {
@@ -66,5 +67,7 @@ Grandes telas: acima de 1200px
         font-size: 2em;
         text-align: center;
      }
+
     }
+    
     
